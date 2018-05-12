@@ -19,6 +19,8 @@ creator:
     - http://en.wikipedia.org/wiki/Jules_Verne
     - http://pt.wikipedia.org/wiki/Júlio_Verne
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28657#A-Winter-Amid-the-Ice-and-Other-Thrilling-Stories
 gutenberg_issued: '2009-05-01'
 gutenberg_type: Text
 identifiers:
