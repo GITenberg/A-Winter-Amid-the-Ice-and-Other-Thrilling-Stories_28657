@@ -1,0 +1,37 @@
+_repo: A-Winter-Amid-the-Ice-and-Other-Thrilling-Stories_28657
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Verne, Jules
+    aliases:
+    - Verne, Júlio
+    - Verne, Jules Gabriel
+    - Verne, Jules Gabriël
+    birthdate: 1828
+    deathdate: 1905
+    gutenberg_agent_id: '60'
+    url: http://www.gutenberg.org/2009/agents/60
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/Jules_Verne
+    - http://en.wikipedia.org/wiki/Jules_Verne
+    - http://pt.wikipedia.org/wiki/Júlio_Verne
+description: ''
+gutenberg_issued: '2009-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28657'
+  lccn: '63056363'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'French fiction -- Translations into English'
+- !lcc 'PQ'
+tableOfContents: Doctor Ox's experiment -- Master Zacharius -- A drama in the air
+  -- A winter amid the ice -- The fortieth French ascent of Mont Blanc.
+title: A Winter Amid the Ice, and Other Thrilling Stories
+url: http://www.gutenberg.org/ebooks/28657
